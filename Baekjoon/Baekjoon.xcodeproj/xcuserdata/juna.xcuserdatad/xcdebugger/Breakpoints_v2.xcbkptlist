@@ -7,15 +7,17 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "0B1E3F10-DAC1-4BF9-B46D-ABAAD26BEBFF"
-            shouldBeEnabled = "Yes"
+            uuid = "86571CD6-97A2-4587-AEF0-20E89FBC39C3"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "Baekjoon/Input.swift"
+            filePath = "Baekjoon/Sandboxs.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "35"
-            endingLineNumber = "35">
+            startingLineNumber = "5"
+            endingLineNumber = "5"
+            landmarkName = "Sandboxs()"
+            landmarkType = "9">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
