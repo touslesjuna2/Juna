@@ -44,4 +44,8 @@
 //    }
 //}
 
-
+// 무한으로 받기
+//while let line = readLine() {
+//    let temp = line.split(separator: " ").compactMap { Int($0) }
+//    inputs.append((temp[0], temp[1]))
+//}

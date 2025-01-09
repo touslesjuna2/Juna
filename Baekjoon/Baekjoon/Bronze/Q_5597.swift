@@ -1,6 +1,6 @@
 import Foundation
 
-func Sandboxs() {
+func Q_5597() {
     var rollBook: Set<Int> = Set(1...30)  // Use a Set for efficient removal
     
     for _ in 1...28 {  // Read 28 inputs
