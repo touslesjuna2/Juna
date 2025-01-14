@@ -1,6 +1,6 @@
 import Foundation
 
-func Sandboxs() {
+func Q_25206() {
     var candidate: [(String, String, String)] = []
     while let line = readLine(){
         var temp: [String] = line.split(separator: " ").compactMap{ String($0) }
