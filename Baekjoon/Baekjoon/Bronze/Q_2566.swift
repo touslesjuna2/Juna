@@ -1,4 +1,4 @@
-func Sandboxs(){
+func Q_2566(){
     var matrixs: [[Int]] = []
     var M: Int = 0
     
